@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a9+d8o0BsEGfdnSs2x3HyGqIAhaNr57fD+QuV7zeZfaZUV3B/BwGzc5rgtHd0BDW+mTn+OfgJ9SPnfX9Pvs6JA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beyza\\Desktop\\vtys\\WinFormsApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\beyza\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\beyza\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\beyza\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\beyza\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
